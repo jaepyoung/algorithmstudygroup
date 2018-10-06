@@ -11,6 +11,7 @@ func main() {
 
 }
 
+//Queries documents
 var Queries = make([]query, 10)
 
 func calquery(targetarray []int, queries []query) {
